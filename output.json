@@ -1,0 +1,108 @@
+[
+    {
+        "name": "Defeat an enemy using only magic",
+        "category": "Challenge"
+    },
+    {
+        "name": "Parry an enemy attack perfectly",
+        "category": "Challenge"
+    },
+    {
+        "name": "Defeat Augur",
+        "center": 1
+    },
+    {
+        "name": "Defeat an enemy while dual-wielding weapons",
+        "category": "Challenge"
+    },
+    {
+        "name": "Defeat an enemy with a critical hit",
+        "category": "Combat"
+    },
+    {
+        "name": "Defeat a shadowy assassin",
+        "category": "Map"
+    },
+    {
+        "name": "Find a secret code or password",
+        "category": "Puzzle"
+    },
+    {
+        "name": "Survive a poison swamp without healing",
+        "category": "Challenge"
+    },
+    {
+        "name": "Defeat 3 enemies in 10 seconds",
+        "category": "Nightfarer"
+    },
+    {
+        "name": "Find a secret passage using a torch",
+        "category": "Exploration"
+    },
+    {
+        "name": "Discover a hidden altar and pray at it",
+        "category": "Exploration"
+    },
+    {
+        "name": "Find a secret room in a dungeon",
+        "category": "Exploration"
+    },
+    {
+        "name": "Defeat an enemy using a summoned ally",
+        "category": "Challenge"
+    },
+    {
+        "name": "Find a hidden NPC and receive a reward",
+        "categories": [
+            "NPC",
+            "Exploration"
+        ]
+    },
+    {
+        "name": "Survive a night-time enemy wave",
+        "categories": [
+            "Survival",
+            "Combat"
+        ]
+    },
+    {
+        "name": "Defeat an enemy while poisoned",
+        "category": "Combat"
+    },
+    {
+        "name": "Find a shortcut in the ruins",
+        "category": "Nightfarer"
+    },
+    {
+        "name": "Unlock the ancient vault",
+        "category": "Map"
+    },
+    {
+        "name": "Defeat an enemy while at critical health",
+        "category": "Nightfarer"
+    },
+    {
+        "name": "Defeat an enemy while affected by fear",
+        "category": "Challenge"
+    },
+    {
+        "name": "Open 5 treasure chests in one area",
+        "category": "Nightfarer"
+    },
+    {
+        "name": "Steal an item from a powerful foe",
+        "category": "Nightfarer"
+    },
+    {
+        "name": "Find the hidden library beneath the city",
+        "category": "Map"
+    },
+    {
+        "name": "Survive a fall from a great height",
+        "category": "Challenge"
+    },
+    {
+        "name": "Solve the puzzle of the glowing runes",
+        "category": "Map"
+    }
+]

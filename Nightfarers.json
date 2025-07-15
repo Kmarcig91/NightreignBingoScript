@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Wylder",
+        "tasks": [
+            "Defeat a boss without taking damage",
+            "Parry an enemy attack three times in a row",
+            "Find a hidden forest shrine",
+            "Use a healing item only once in a level",
+            "Defeat 10 enemies with a charged attack"
+        ]
+    },
+    {
+        "name": "Guardian",
+        "tasks": [
+            "Block 20 attacks in a single run",
+            "Rescue a lost spirit",
+            "Defeat a mini-boss using only shield bashes",
+            "Survive an ambush without dodging",
+            "Activate all ancient runes in a level"
+        ]
+    },
+    {
+        "name": "Ironeye",
+        "tasks": [
+            "Land 5 headshots on elite enemies",
+            "Defeat an enemy from long range",
+            "Find a secret passage using keen sight",
+            "Dodge through 10 traps without taking damage",
+            "Defeat a boss using only ranged attacks"
+        ]
+    },
+    {
+        "name": "Raider",
+        "tasks": [
+            "Open 5 treasure chests in one area",
+            "Defeat an enemy while at critical health",
+            "Steal an item from a powerful foe",
+            "Find a shortcut in the ruins",
+            "Defeat 3 enemies in 10 seconds"
+        ]
+    },
+    {
+        "name": "Recluse",
+        "tasks": [
+            "Cast 10 spells without missing",
+            "Defeat a boss using only magic",
+            "Find a hidden library",
+            "Use a spell to solve a puzzle",
+            "Defeat an enemy with a status effect"
+        ]
+    },
+    {
+        "name": "Executor",
+        "tasks": [
+            "Perform 3 executions in one level",
+            "Defeat a boss with a finishing move",
+            "Break an enemy's guard and counterattack",
+            "Use a heavy weapon to shatter armor",
+            "Defeat 5 enemies with environmental hazards"
+        ]
+    },
+    {
+        "name": "Duchess",
+        "tasks": [
+            "Charm an enemy to fight for you",
+            "Defeat a foe using only elegance skills",
+            "Find a royal artifact",
+            "Survive a duel without healing",
+            "Defeat an enemy with a riposte"
+        ]
+    },
+    {
+        "name": "Revenant",
+        "tasks": [
+            "Return from death and defeat your killer",
+            "Defeat 10 enemies while cursed",
+            "Find a lost memory fragment",
+            "Use a resurrection item",
+            "Defeat a boss with less than 10% health remaining"
+        ]
+    }
+]
