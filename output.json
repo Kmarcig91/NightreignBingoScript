@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Trade with a mysterious wandering merchant",
+        "category": "NPC"
+    },
+    {
+        "name": "Rescue a trapped NPC",
+        "category": "NPC"
+    },
+    {
+        "name": "Parry an enemy attack perfectly",
+        "category": "Challenge"
+    },
+    {
+        "name": "Defeat an enemy using a summoned ally",
+        "category": "Challenge"
+    },
+    {
+        "name": "Survive a trap without taking damage",
+        "category": "Challenge"
+    },
+    {
+        "name": "Defeat an enemy while at critical health",
+        "category": "Combat"
+    },
+    {
+        "name": "Defeat an enemy using environmental hazards",
+        "category": "Map"
+    },
+    {
+        "name": "Find a hidden lever to open a door",
+        "category": "Puzzle"
+    },
+    {
+        "name": "Find a hidden switch in a wall",
+        "category": "Puzzle"
+    },
+    {
+        "name": "Defeat an enemy while rolling only",
+        "category": "Challenge"
+    },
+    {
+        "name": "Find a rare crafting material",
+        "category": "Exploration"
+    },
+    {
+        "name": "Descend to the crater's core",
+        "category": "Map"
+    },
+    {
+        "name": "Find a secret passage using a torch",
+        "category": "Exploration"
+    },
+    {
+        "name": "Discover a hidden altar and pray at it",
+        "category": "Exploration"
+    },
+    {
+        "name": "Light all torches in a room",
+        "category": "Puzzle"
+    },
+    {
+        "name": "Survive an ambush without dodging",
+        "category": "Nightfarer"
+    },
+    {
+        "name": "Block 20 attacks in a single run",
+        "category": "Nightfarer"
+    },
+    {
+        "name": "Find a rare mineral deposit",
+        "category": "Map"
+    },
+    {
+        "name": "Defeat an enemy while standing in water",
+        "category": "Challenge"
+    },
+    {
+        "name": "Collect all items in an area",
+        "category": "Exploration"
+    },
+    {
+        "name": "Defeat Sentient Pest",
+        "center": 1
+    },
+    {
+        "name": "Defeat three enemies in under 30 seconds",
+        "category": "Combat"
+    },
+    {
+        "name": "Survive a night-time enemy wave",
+        "categories": [
+            "Survival",
+            "Combat"
+        ]
+    },
+    {
+        "name": "Break all crates in a room",
+        "category": "Exploration"
+    },
+    {
+        "name": "Rescue a miner trapped by a cave-in",
+        "category": "Map"
+    }
+]
