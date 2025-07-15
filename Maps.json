@@ -1,0 +1,67 @@
+[
+    {
+        "name": "General",
+        "tasks": [
+            "Find a hidden shortcut between two areas",
+            "Defeat an invader in open terrain",
+            "Collect all map fragments in a region",
+            "Survive a night-time ambush",
+            "Unlock a sealed gate using a rare key",
+            "Discover a secret merchant",
+            "Light every bonfire in the area",
+            "Defeat a roaming mini-boss"
+        ]
+    },
+    {
+        "name": "Mountaintop",
+        "tasks": [
+            "Reach the summit without using healing items",
+            "Defeat an enemy by knocking them off a cliff",
+            "Find a hidden cave behind a waterfall",
+            "Survive a blizzard event",
+            "Activate an ancient wind altar",
+            "Rescue a stranded traveler",
+            "Defeat a frost-infused beast",
+            "Cross a collapsing bridge safely"
+        ]
+    },
+    {
+        "name": "Rot Forest",
+        "tasks": [
+            "Cleanse a corrupted tree",
+            "Defeat a poison-spewing monster",
+            "Find a safe path through toxic swamps",
+            "Rescue a lost wanderer from the mire",
+            "Light all lanterns in the forest",
+            "Survive a swarm of rotlings",
+            "Discover a hidden druid enclave",
+            "Defeat a boss while poisoned"
+        ]
+    },
+    {
+        "name": "Noklateo",
+        "tasks": [
+            "Solve the puzzle of the glowing runes",
+            "Defeat a shadowy assassin",
+            "Find the hidden library beneath the city",
+            "Survive an ambush in the alleyways",
+            "Unlock the ancient vault",
+            "Rescue a captive from the catacombs",
+            "Defeat an enemy using only stealth",
+            "Discover the secret of the moonlit plaza"
+        ]
+    },
+    {
+        "name": "Crater",
+        "tasks": [
+            "Descend to the crater's core",
+            "Defeat a magma beast",
+            "Find a rare mineral deposit",
+            "Survive a meteor shower event",
+            "Activate the ancient mechanism at the center",
+            "Rescue a miner trapped by a cave-in",
+            "Defeat an enemy using environmental hazards",
+            "Discover a hidden hot spring"
+        ]
+    }
+]
