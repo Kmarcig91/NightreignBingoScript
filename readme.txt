@@ -8,3 +8,4 @@ in this folder, give the command:
 node merger.js
 
 Your generated Bingo board should be in output.json
+Current .jsons are examples, can fill with your own data
