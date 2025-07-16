@@ -1,4 +1,5 @@
 How to use:
+Download the code.
 You need to install node:
 https://nodejs.org/en/download
 
